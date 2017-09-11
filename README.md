@@ -6,7 +6,9 @@ License: Freeware
 
 A FREEWARE APPLICATION TO WORK WITH THE ISO19115 AND TO VALIDATE THE INTEROPERABILITY OF GEOGRAPHICAL INFORMATION XML FILES AGAINST THE OFFICIAL ISO19139 SCHEMA.
 
-![splash image](/images/splash.jpg)
+Note: This software is not maintained from 2008.
+
+![splash image](/images/splash2.jpg)
 
 Features:
  * Profiles edition and modification.
