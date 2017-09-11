@@ -1,7 +1,12 @@
 # IME
 IME (ISO Metadata Editor)
 
+Author: Alberto Amaro
+License: Freeware
+
 A FREEWARE APPLICATION TO WORK WITH THE ISO19115 AND TO VALIDATE THE INTEROPERABILITY OF GEOGRAPHICAL INFORMATION XML FILES AGAINST THE OFFICIAL ISO19139 SCHEMA.
+
+![splash image](/images/splash.jpg)
 
 Features:
  * Profiles edition and modification.
@@ -20,3 +25,5 @@ Features:
  * XSLT transformation applied over external XML files to obtain HTML.
  * Multilingual profile.
  * ISO19115 Corrigendum modifications included.
+
+![main image](/images/imagen_mas_xml.jpg)
