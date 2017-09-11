@@ -29,3 +29,5 @@ Features:
  * ISO19115 Corrigendum modifications included.
 
 ![main image](/images/imagen_mas_xml.jpg)
+
+There is documentation available in the "manual" directory and the binary installation is in the "software" directory.
